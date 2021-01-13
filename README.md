@@ -1,4 +1,4 @@
-# Java_FinalWork
+# Java_IM
 大二java期末大作业
 
 > 准备工作:安装mysql, 下载并导入mysql驱动
